@@ -14,4 +14,3 @@ requests
 Pillow
 streamlit-image-coordinates
 ydata-profiling
-protobuf
