@@ -6,10 +6,8 @@ scipy
 statsmodels
 scikit-learn
 joblib
-tensorflow
 matplotlib
 opencv-python-headless
-mediapipe
 requests
 Pillow
 streamlit-image-coordinates
