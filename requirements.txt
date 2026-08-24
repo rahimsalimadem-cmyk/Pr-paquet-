@@ -1,0 +1,17 @@
+streamlit
+sqlite3
+pandas
+plotly
+numpy
+scipy
+statsmodels
+scikit-learn
+joblib
+tensorflow
+matplotlib
+opencv-python-headless
+mediapipe
+requests
+Pillow
+streamlit-image-coordinates
+ydata-profiling
