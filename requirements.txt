@@ -1,5 +1,4 @@
 streamlit
-sqlite3
 pandas
 plotly
 numpy
@@ -15,3 +14,4 @@ requests
 Pillow
 streamlit-image-coordinates
 ydata-profiling
+protobuf>=3.20
